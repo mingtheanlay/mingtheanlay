@@ -28,7 +28,7 @@ Current Project: <a href="https://github.com/mingtheanlay/library-management-sys
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/th34n_">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href=https://www.hackerrank.com/mingthean_lay">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/mingthean_lay">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
   &nbsp; &nbsp;
 </p> 
