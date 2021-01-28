@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/mingtheanlay/mingtheanlay/raw/mingtheanlay/img/fan-1.gif" alt="Fan" align="center">
+<img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/mingtheanlay/mingtheanlay/raw/mingtheanlay/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="https://mingtheanlay.github.io/">Visit my personal homepage
-<img src="https://github.com/mingtheanlay/mingtheanlay/raw/mingtheanlay/img/website.gif" alt="Visit homepage" align="center">
+<img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
@@ -20,7 +20,7 @@ to my personal GitHub profile!
 
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/mingtheanlay/mingtheanlay/issues"><img src="https://github.com/mingtheanlay/mingtheanlay/raw/mingtheanlay/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/mingtheanlay/mingtheanlay/issues"><img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
@@ -28,7 +28,7 @@ to my personal GitHub profile!
 <div align="center">
 <p>Have a good day!</p>
 <div>
-<img src="https://github.com/mingtheanlay/mingtheanlay/raw/mingtheanlay/img/smile.gif" alt="Smiley" align="center">
+<img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
 
@@ -38,7 +38,7 @@ to my personal GitHub profile!
 </div>
 
 <div align="center">
-<img src="https://github.com/mingtheanlay/mingtheanlay/raw/mingtheanlay/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+<img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/mingtheanlay/mingtheanlay/master/wave.gif" width="30px">
