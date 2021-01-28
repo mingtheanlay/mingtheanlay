@@ -45,9 +45,9 @@ to my personal GitHub profile!
 
 I am Lay Mingthean, people call me Thean, currently pursuing my bachelor's degree majoring in computer science from [Royal University of Phnom Penh](http://www.rupp.edu.kh/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-mingthean-lay?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mingthean-lay-384294178/)
+[![Linkedin Badge](https://img.shields.io/badge/-mingthean-lay-?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mingthean-lay-384294178/)
 [![Instagram Badge](https://img.shields.io/badge/-th34n._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/th34n._/)
-[![Youtube Badge](https://img.shields.io/badge/-mingthean-lay?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/channel/UCRDqDtko3GRB6kGdrRY-iOw)
+[![Youtube Badge](https://img.shields.io/badge/-thean-?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/channel/UCRDqDtko3GRB6kGdrRY-iOw)
 [![Gmail Badge](https://img.shields.io/badge/-mingthean.lay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:mingthean.lay@gmail.com@gmail.com)
 
 ## ⚡ Technologies
