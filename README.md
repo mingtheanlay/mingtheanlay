@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 <img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/fan-1.gif" alt="Fan" align="center">
 </div>
@@ -40,6 +41,7 @@ to my personal GitHub profile!
 <div align="center">
 <img src="https://github.com/mingtheanlay/mingtheanlay/blob/master/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
+ -->
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/mingtheanlay/mingtheanlay/master/wave.gif" width="30px">
 
