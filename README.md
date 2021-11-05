@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :wave:
 
-#### I'm a Web Developer working in Phnom, Cambodia :cambodia:.
+#### I'm a Web Developer working in Phnom Penh, Cambodia :cambodia:.
 
 ##### NOW
 
