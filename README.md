@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- :star2: Feel free to check my repositories;
+- :star2: Feel free to check my repositories
 - :rescue_worker_helmet: [My portfolio](https://mingtheanlay.github.io/)
 
 ##### BIO
@@ -13,7 +13,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`, `.c#`
 - 🌍 Favorite Framework **Laravel**
 - 🌱 Learning all about **Open Source**
-- 💬 Feel free to contact me by [my email](mailto:mingtheanlay@gmail.com)
+- 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
 
 ##### SOCIAL
 
