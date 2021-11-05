@@ -10,12 +10,13 @@
 ##### BIO
 
 - 🏢 I'm currently working at **GoodHill Enterprise**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`, `.ai`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`, `.c#`
 - 🌍 Favorite Framework **Laravel**
 - 🌱 Learning all about **Open Source**
-- 💬 Feel free to contact me
+- 💬 Feel free to contact me by [my email](mailto:mingtheanlay@gmail.com)
 
 ##### SOCIAL
 
 - :link: [Linkedin](https://www.linkedin.com/in/mingthean-lay-384294178/)
 - :camera: [Instagram](https://www.instagram.com/th34n._/)
+- :pager: [Telegram](https://t.me/mingtheanlay)
