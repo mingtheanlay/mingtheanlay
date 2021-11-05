@@ -4,9 +4,8 @@
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- :cambodia: Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- :star2: Feel free to check my repositories;
+- :rescue_worker_helmet: Currently working on [my portfolio](https://mingtheanlay.github.io/)
 
 ##### BIO
 
