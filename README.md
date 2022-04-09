@@ -5,7 +5,7 @@
 ##### NOW
 
 - :star2: Feel free to check my repositories
-- :rescue_worker_helmet: [My portfolio](https://mingtheanlay.github.io/)
+- :rescue_worker_helmet: [My portfolio](mingthean-lay.vercel.app)
 
 ##### BIO
 
