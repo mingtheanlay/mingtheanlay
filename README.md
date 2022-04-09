@@ -11,8 +11,8 @@
 
 - 🏢 I'm currently working at **GoodHill Enterprise**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`, `.c#`
-- 🌍 Favorite Framework **Laravel**
-- 🌱 Learning all about **Open Source**
+- 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**, **NextJS**
+- 🌱 Learning all about **Open Source**,**Blockchain**
 - 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
 
 ##### SOCIAL
