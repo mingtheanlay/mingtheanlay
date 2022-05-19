@@ -5,18 +5,18 @@
 ##### NOW
 
 - :star2: Feel free to check my repositories
-- :rescue_worker_helmet: [My portfolio](https://mingtheanlay.github.io/)
 
 ##### BIO
 
 - 🏢 I'm currently working at **GoodHill Enterprise**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`, `.c#`
-- 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**, **NextJS**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`
+- 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**
 - 🌱 Learning all about **Open Source**,**Blockchain**
 - 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
 
 ##### SOCIAL
 
 - :link: [Linkedin](https://www.linkedin.com/in/mingthean-lay-384294178/)
+- 🐦 [Twitter](https://twitter.com/th34n_)
 - :camera: [Instagram](https://www.instagram.com/th34n._/)
 - :pager: [Telegram](https://t.me/mingtheanlay)
