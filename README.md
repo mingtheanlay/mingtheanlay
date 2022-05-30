@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **GoodHill Enterprise**
+- 🏢 I'm currently working at **OneWorld Technology**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`
 - 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**
 - 🌱 Learning all about **Open Source**,**Blockchain**
