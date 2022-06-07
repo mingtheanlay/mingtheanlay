@@ -10,7 +10,7 @@
 
 - 🏢 I'm currently working at **OneWorld Technology**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`
-- 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**
+- 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**, **NextJS**
 - 🌱 Learning all about **Open Source**,**Blockchain**
 - 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
 
