@@ -9,7 +9,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **OneWorld Technology**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ts`, `.java`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**, **NextJS**
 - 🌱 Learning all about **Open Source**,**Blockchain**
 - 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
