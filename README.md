@@ -1,17 +1,12 @@
 ### Hi there :wave:
 
-#### I'm a Web Developer working in Phnom Penh, Cambodia :cambodia:.
-
-##### NOW
-
-- :star2: Feel free to check my repositories
+#### Web Developer from Phnom Penh, Cambodia :cambodia:.
 
 ##### BIO
 
 - 🏢 I'm currently working at **OneWorld Technology**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
-- 🌍 Favorite Framework **ReactJS**, **Laravel**, **TailwindCSS**, **NextJS**
-- 🌱 Learning all about **Open Source**,**Blockchain**
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
+- 🌍 Favorite Framework **ReactJS**, **TailwindCSS**, **NextJS**
 - 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
 
 ##### SOCIAL
