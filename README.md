@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Hi there :wave:, thanks for dropping by.
 
 #### Web Developer from Phnom Penh, Cambodia :cambodia:.
 
