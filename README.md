@@ -4,7 +4,6 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **OneWorld Technology**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 🌍 Favorite Framework **ReactJS**, **TailwindCSS**, **NextJS**
 - 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
