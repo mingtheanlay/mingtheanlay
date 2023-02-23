@@ -5,7 +5,7 @@
 ##### BIO
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
-- 🌍 Favorite Framework **ReactJS**, **TailwindCSS**, **NextJS**
+- 🌍 Frontend Framework **ReactJS**, **Vue**, **Nuxt**, **Next**
 - 💬 Contact me by [my email](mailto:mingtheanlay@gmail.com)
 
 ##### SOCIAL
